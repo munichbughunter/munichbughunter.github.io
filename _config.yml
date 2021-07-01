@@ -15,7 +15,7 @@ author: Patrick Döring
 
 navbar-links:
   Writing: "blog"
-  About: "aboutme"
+  About: "about"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
