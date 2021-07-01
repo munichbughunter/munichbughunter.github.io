@@ -4,9 +4,9 @@ title: About Patrick
 subtitle: 
 ---
 
-I'm a quality engineer, serverless enthusiast, and Open-Source developer living near Munich. 
+I'm a Quality Engineer, Serverless enthusiast, and Open-Source Developer living near to Munich. 
 
-You can find me on GitHub, and LinkedIn. 
+You can find me on [GitHub](https://github.com/munichbughunter), and [LinkedIn](https://www.linkedin.com/in/patrick-d%C3%B6ring/). 
 
 I joined Pro7 in 2019 as Chief Architect for Testautomation and help build up and grow their test automation and culture. 
 
