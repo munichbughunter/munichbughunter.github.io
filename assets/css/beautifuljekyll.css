@@ -380,6 +380,10 @@ footer {
   {% endif %}
 }
 
+footer container-md beautiful-jekyll-footer {
+  background-image: "linear-gradient(to right, #FF006E, #FFBE0B);"
+}
+
 footer p.text-muted {
   color: {{ site.footer-text-col | default: "#777777" }} !important;
 }
